@@ -1,4 +1,3 @@
-
 module StyleSass
   module Generators
     class InstallGenerator < Rails::Generators::Base
