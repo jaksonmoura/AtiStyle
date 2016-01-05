@@ -4,7 +4,7 @@ module StyleSass
       source_root File.expand_path("../../../..",__FILE__)
 
       def copy_views
-        directory 'app/assets/', 'app/assets/stylesheets/'
+        directory 'app/assets/', 'app/assets/'
       end
 
     end
