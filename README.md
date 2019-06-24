@@ -1,11 +1,11 @@
-# StyleSass
+# AtiStyle
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'StyleSass'
+gem 'AtiStyle'
 ```
 
 And then execute:
@@ -14,15 +14,15 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install StyleSass
+    $ gem install AtiStyle
 
 Rails generator
-    $ rails g style_sass:install
+    $ rails g ati_style:install
 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/StyleSass.
+Bug reports and pull requests are welcome on GitHub at https://github.com/jaksonmoura/AtiStyle.
 
 
 ## License
